@@ -1,2 +1,0 @@
-# umengdata
-umengdata
